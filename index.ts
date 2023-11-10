@@ -1,3 +1,2 @@
-export const deeznutz = () => {
-	return 'Got eem!';
-};
+// index.ts
+import 'deeznutz/auto';
