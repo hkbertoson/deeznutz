@@ -6,10 +6,10 @@ Got Em!
 
 ```javascript
 // CommonJS
-const nutz = require('deeznutz');
-console.log(nutz.deezNutz()); // Got Em!
+require('deeznutz');
+// Auto executes deezNutz()
 
 // ES6
-import deeznutz from 'deeznutz';
-console.log(deeznutz()); // Got Em!
+import 'deeznutz';
+// Auto executes deezNutz()
 ```
