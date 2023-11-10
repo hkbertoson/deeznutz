@@ -1,7 +1,7 @@
 {
 	"name": "deeznutz",
 	"license": "WTFPL",
-	"version": "69.420.42",
+	"version": "69.420.01",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
 	"types": "dist/index.d.ts",
