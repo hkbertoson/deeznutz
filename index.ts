@@ -1,3 +1,3 @@
-export const deezNutz = () => {
+export const deeznutz = () => {
 	return 'Got eem!';
 };
