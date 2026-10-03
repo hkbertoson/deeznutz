@@ -13,7 +13,7 @@
 		"lint": "tsc"
 	},
 	"devDependencies": {
-		"tsup": "^7.2.0",
+		"tsup": "^8.0.0",
 		"typescript": "^5.2.2"
 	}
 }
